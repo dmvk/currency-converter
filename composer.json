@@ -1,0 +1,14 @@
+{
+    "name": "shipito/currency-converter",
+    "description": "Currency Conversion using google finance rates",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Moravek",
+            "email": "david.moravek@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
